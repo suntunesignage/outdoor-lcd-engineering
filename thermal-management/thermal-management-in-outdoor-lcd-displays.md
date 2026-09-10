@@ -69,12 +69,12 @@ At approximate steady state, `dU/dt` approaches zero. During warm-up, changing s
 
 A simple solar estimate is:
 
-`Q_solar,absorbed = G_POA × A_projected × α_effective`
+`Q_solar,absorbed = G_POA × A_surface × α_effective`
 
 | Variable | Meaning | Unit |
 | --- | --- | --- |
 | `G_POA` | Irradiance on the plane of the evaluated surface | W/m² |
-| `A_projected` | Area projected normal to the solar direction | m² |
+| `A_surface` | Actual area of the evaluated surface receiving `G_POA` | m² |
 | `α_effective` | Effective fraction absorbed into the selected thermal boundary | dimensionless |
 | `Q_solar,absorbed` | Estimated absorbed solar heat rate | W |
 
