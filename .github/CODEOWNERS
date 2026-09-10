@@ -1,0 +1,4 @@
+# Repository owner: @suntunesignage
+# Default human reviewer and CODEOWNER: @jacob-suntune
+# CODEOWNERS does not enforce approval without repository protection settings.
+* @jacob-suntune
