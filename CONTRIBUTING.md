@@ -14,7 +14,7 @@ Contribute useful outdoor-LCD engineering knowledge for system integrators, engi
 
 Do not delete repositories, change visibility or access permissions, disable security protections, remove branch/ruleset protections, expose secrets, rewrite history or force-push protected branches without explicit human authorization.
 
-CODEOWNERS expresses review ownership; it does not itself enforce approval. Repository protection settings require separate human configuration. Do not assume documented policy is technically enforced.
+The repository owner is `@suntunesignage`. The default human CODEOWNER is `@jacob-suntune`. CODEOWNERS expresses review ownership; it does not itself enforce approval. Repository protection settings require separate human configuration. Do not assume documented policy is technically enforced.
 
 ## Technical integrity
 
@@ -60,8 +60,18 @@ Tools must document formulas, input units, assumptions, boundaries, dependencies
 
 The [automation plan](.github/workflows/README.md) describes future checks. Checks assist review; they cannot certify engineering accuracy, confidentiality or publication authorization.
 
-## Licensing and pilot review
+## Copyright, contribution rights and licensing
 
-The licensing decision is pending in [LICENSE](LICENSE). Do not add third-party material without confirming permission and attribution requirements.
+The formal copyright holder for original repository material is **Shenzhen SUNTUNE Technology Co., Ltd.** **SUNTUNE** is the registered brand and repository maintainer. SUNTUNE SignageHub is a promotional name used for websites and marketing activities; it is not the legal copyright holder or registered brand.
+
+Original documentation, technical articles and original engineering diagrams are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0), unless a file clearly states otherwise.
+
+By submitting a contribution, you confirm that you own the contribution or have sufficient rights and permission to submit it under the applicable repository license. You also agree that the contribution may be distributed under that license. Identify third-party material, its source and its license in the pull request; do not submit it unless its terms permit the proposed repository use and distribution.
+
+Future software, calculators, scripts or source code may use the MIT License only when that software scope is clearly identified with a separate license notice. Until such a notice is added, do not assume the documentation license or a future MIT license applies to software material.
+
+CC BY 4.0 does not license SUNTUNE trademark rights or imply endorsement. See [LICENSE](LICENSE) for the scope and attribution notice.
+
+## Pilot review
 
 At the end of the 30-day pilot, humans should assess technical usefulness, evidence quality, reviewer effort and maintainability before expanding the library. There is no daily publishing requirement.

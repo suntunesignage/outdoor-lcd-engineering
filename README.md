@@ -2,7 +2,9 @@
 
 **Practical engineering knowledge for reliable outdoor LCD digital signage.**
 
-Maintained by SUNTUNE SignageHub, a manufacturer specializing in outdoor LCD digital signage, this repository collects engineering knowledge, technical guides, troubleshooting resources, and practical tools for outdoor LCD systems.
+Maintained by **SUNTUNE**, the registered brand for this engineering repository, this library collects engineering knowledge, technical guides, troubleshooting resources, and practical tools for outdoor LCD systems.
+
+The formal copyright holder for original repository material is **Shenzhen SUNTUNE Technology Co., Ltd.** SUNTUNE SignageHub is a promotional name used for websites and marketing activities; it is not identified here as the legal copyright holder or registered brand.
 
 It is intended for system integrators, engineers, technical consultants, distributors, project designers, developers, and maintenance technicians who evaluate, specify, integrate, install, or maintain outdoor display hardware.
 
@@ -41,4 +43,14 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting material. Explain why 
 
 Every meaningful change goes through a pull request. Human approval is mandatory during the pilot, even if checks pass. Confidential or uncertain material must be withheld from public submissions pending review.
 
-See [LICENSE](LICENSE) for the pending licensing decision and [automation preparation](.github/workflows/README.md) for planned checks.
+## Copyright and licenses
+
+Copyright © 2026 Shenzhen SUNTUNE Technology Co., Ltd.
+
+Original documentation, technical articles and original engineering diagrams are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0), unless a file clearly states otherwise.
+
+Future software, calculators, scripts or source code are outside that documentation license. Such material may be released under the MIT License only when its software scope is clearly identified with a separate license notice. No software is licensed under MIT merely because it is stored in this repository.
+
+SUNTUNE is the registered brand and repository maintainer. The CC BY 4.0 license does not license trademark rights or imply endorsement.
+
+See [automation preparation](.github/workflows/README.md) for planned checks.

@@ -1,11 +1,48 @@
-LICENSING DECISION PENDING
+# Licensing
 
-[VERIFICATION REQUIRED] SUNTUNE must approve the copyright holder and
-licensing terms for documentation, future code/tools and third-party material.
+## Copyright holder
 
-This file is a decision placeholder, not an open-source license or a grant
-of reuse rights. No repository-wide reuse license has been selected.
+Copyright © 2026 Shenzhen SUNTUNE Technology Co., Ltd.
 
-Before approving the foundation, the human reviewer should select appropriate
-terms or explicitly approve retaining this pending status. Replace this
-placeholder through a reviewed pull request when licensing is authorized.
+## Documentation license
+
+Unless a file clearly states otherwise, original documentation, technical
+articles and original engineering diagrams published in this repository are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+The full legal code is available at:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+When sharing or adapting covered material, follow the license terms, including
+providing appropriate credit, linking to the license and indicating whether
+changes were made.
+
+Suggested attribution:
+
+> Outdoor LCD Engineering, copyright Shenzhen SUNTUNE Technology Co., Ltd.,
+> licensed under CC BY 4.0.
+
+Third-party material remains subject to its stated terms and is not relicensed
+by this notice.
+
+## Future software license
+
+Software, calculators, scripts and source code are outside the documentation
+license described above. Future software may be released under the MIT License
+only when its scope is clearly identified in a separate license file, directory
+notice or source-file header. The presence of software in this repository does
+not by itself place that software under CC BY 4.0 or MIT.
+
+## Brand and trademark
+
+SUNTUNE is the registered brand and the maintainer of this engineering
+repository. SUNTUNE SignageHub is a promotional name used for websites and
+marketing activities; it is not the legal copyright holder or registered brand.
+
+CC BY 4.0 does not license patent or trademark rights. Nothing in the
+documentation license grants permission to use SUNTUNE branding in a way that
+suggests sponsorship, endorsement or official status.

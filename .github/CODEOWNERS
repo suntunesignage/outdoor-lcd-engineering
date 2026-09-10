@@ -1,4 +1,4 @@
-# Proposed review owner: the existing repository owner.
-# Human review must confirm this account is the intended reviewer.
-# CODEOWNERS does not enforce approvals without repository protection settings.
-* @suntunesignage
+# Repository owner: @suntunesignage
+# Default human reviewer and CODEOWNER: @jacob-suntune
+# CODEOWNERS does not enforce approval without repository protection settings.
+* @jacob-suntune
