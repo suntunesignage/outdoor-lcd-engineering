@@ -12,9 +12,13 @@ Heat sources, solar loading and cooling strategies for outdoor LCD systems.
 - Thermal protection
 - Extreme ambient temperatures
 
+## Engineering resources
+
+- [Thermal Management in Outdoor LCD Displays: Heat Sources, Solar Loading and Cooling Strategies](thermal-management-in-outdoor-lcd-displays.md) — a practical framework for heat loads, cooling architecture, airflow, controls and verification.
+
 ## Status and contribution standard
 
-Foundation only: no technical articles are published here yet. These topics are directions, not claims about SUNTUNE products or field results.
+This section now contains its first proposed engineering guide. Its general principles and simplified models do not represent SUNTUNE product claims or field results.
 
 Future contributions must distinguish **Established engineering principle**, **Engineering estimate** and **SUNTUNE-verified data** where applicable. Mark missing verification `[VERIFICATION REQUIRED]`, document sources and limitations, and obtain human approval before merging.
 
