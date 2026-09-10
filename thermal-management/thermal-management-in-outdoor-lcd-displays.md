@@ -244,7 +244,7 @@ The simplified equations support first-pass reasoning and consistency checks. Th
 
 ## References
 
-1. National Renewable Energy Laboratory, [Solar Position and Intensity](https://www.nrel.gov/grid/solar-resource/solpos.html). Solar position and irradiance on horizontal and tilted surfaces.
+1. National Renewable Energy Laboratory, [SAM Photovoltaic Model Technical Reference Update](https://www.nrel.gov/docs/fy18osti/67399.pdf), Section 6. Defines plane-of-array irradiance and relates it to sun position and surface orientation.
 2. NASA Small Spacecraft Systems Virtual Institute, [State-of-the-Art of Small Spacecraft Technology — Thermal Control](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/). General energy-balance, solar-absorptivity and infrared-emissivity principles; spacecraft boundary conditions are not used as terrestrial enclosure data.
 3. International Electrotechnical Commission, [IEC 60068-2-5:2018 — Simulated solar radiation at ground level](https://webstore.iec.ch/en/publication/32126). Official scope summary; this guide does not claim compliance.
 4. Rittal, [Industrial Enclosure Solutions: A Buying Guide for Panel Builders, Machine Builders and System Integrators](https://www.rittal.com/us-en_US/Company/Rittal-Stories/Industrial-Enclosure-Solutions-A-Buying-Guide-for-Panel-Builders-Machine-Builders-System-Integrators). Manufacturer guidance used for cooling architecture terminology and selection considerations.
